@@ -1,4 +1,4 @@
-package com..systemvolume;
+package com.sakthivel.normalvolume;
 
 import org.apache.cordova.CallbackContext;
 import org.apache.cordova.CordovaPlugin;
