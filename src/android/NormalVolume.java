@@ -10,7 +10,7 @@ import android.media.AudioManager;
 import android.os.Vibrator;
 
 public class NormalVolume extends CordovaPlugin {
-	public SystemVolume(){
+	public NormalVolume(){
 
 	}
 
